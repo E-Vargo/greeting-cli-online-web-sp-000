@@ -3,3 +3,5 @@ def greeting(name = "Sally")
 
   puts "Hello #{name}. It's mice to meet you."
 end
+
+greeting(name = "Sally")
